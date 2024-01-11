@@ -13,7 +13,6 @@ https://profile-summary-for-github.com/user/suzuito
 * [AWS Lambda構成管理のためにTerraform導入してみた](https://tech.jxpress.net/entry/2022/08/08/125138)
 * [Zookeeperとは](https://qiita.com/szit/items/aec0ce677a28c83c6893)
 * [CentOS 上で Vagrant を導入するまでのメモ（CUI）](https://qiita.com/szit/items/9a6a314a853cdcd00f80)
-* [個人ブログ](https://blog.tach.dev/)
 
 ### Blog
 
