@@ -29,5 +29,5 @@ https://profile-summary-for-github.com/user/suzuito
 
 作ってみたWebサービスなど。
 
-* [個人ブログ](https://blog.tach.dev/) [ソースコード](https://github.com/suzuito/sandbox2-go)
+* [個人ブログ](https://blog.tach.dev/) -> [ソースコード](https://github.com/suzuito/sandbox2-go)
 * [日本の人口推移(d3)](https://observablehq.com/@suzuito/japanese-population-per-prefecture)
