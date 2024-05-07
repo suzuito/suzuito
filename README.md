@@ -19,7 +19,7 @@ https://profile-summary-for-github.com/user/suzuito
 
 * [Qiita](https://qiita.com/szit?page=1)
 * [Zenn](https://zenn.dev/suzuito)
-* [個人ブログ](https://blog.tach.dev/)
+* [個人ブログ](https://blog.tach.dev/articles)
 
 ## Talk
 
