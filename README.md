@@ -6,8 +6,8 @@ https://profile-summary-for-github.com/user/suzuito
 
 ## Post
 
-* [趣味開発TerraformをGithub Action上で実行、自動で適用するまでの仕組みを作った](https://blog.tach.dev/articles/1b0204ca-5d04-47e0-9478-ade7e0ddbcef)
-* [趣味でブログサイトを作りました](https://blog.tach.dev/articles/86f45c11-0199-43b2-9abb-7c8f3f112e85)
+* [2024-06-04 趣味開発TerraformをGithub Action上で実行、自動で適用するまでの仕組みを作った](https://blog.tach.dev/articles/1b0204ca-5d04-47e0-9478-ade7e0ddbcef)
+* [2024-05-07 趣味でブログサイトを作りました](https://blog.tach.dev/articles/86f45c11-0199-43b2-9abb-7c8f3f112e85)
 * [Go x WebAssembly(wasm) フロントエンドのコードをGoで書く方法](https://zenn.dev/suzuito/articles/b389516cd2f3d2)
 * [パッケージの依存関係を検証するコマンドを自作した](https://zenn.dev/suzuito/articles/cc84a448a388a4)
 * [Python multiprocessing vs threading vs asyncio](https://tech.jxpress.net/entry/2021/07/29/101150)
