@@ -6,6 +6,7 @@ https://profile-summary-for-github.com/user/suzuito
 
 ## Post
 
+* [2024-08-14 Go1.23から導入された range over func とは](https://blog.tach.dev/articles/3e34e07d-33c6-49ed-99c7-d7903f849089)
 * [2024-06-04 趣味開発TerraformをGithub Action上で実行、自動で適用するまでの仕組みを作った](https://blog.tach.dev/articles/1b0204ca-5d04-47e0-9478-ade7e0ddbcef)
 * [2024-05-07 趣味でブログサイトを作りました](https://blog.tach.dev/articles/86f45c11-0199-43b2-9abb-7c8f3f112e85)
 * [Go x WebAssembly(wasm) フロントエンドのコードをGoで書く方法](https://zenn.dev/suzuito/articles/b389516cd2f3d2)
