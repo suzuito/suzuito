@@ -28,7 +28,7 @@ https://profile-summary-for-github.com/user/suzuito
 
 ## Talk
 
-<a href="https://speakerdeck.com/pistatium/xin-siimenbani-make-debut-sitemoraiyasukusurutamefalsekai-fa-ti-zhi-with-python"><img src="https://files.speakerdeck.com/presentations/3921635226a74b5abfe89665510283f9/preview_slide_0.jpg" width=300></a>
+<a href="https://speakerdeck.com/suzuito/python-on-google-cloud-functions-dezuo-rubatutichu-li"><img src="https://files.speakerdeck.com/presentations/3921635226a74b5abfe89665510283f9/preview_slide_0.jpg" width=300></a>
 
 ## Site
 
