@@ -7,7 +7,6 @@ https://profile-summary-for-github.com/user/suzuito
 ## Post
 
 * [2025-12-01 GoのHTTPサーバーにおけるGraceful Shutdown](https://blog.tach.dev/articles/go-graceful-shutdown-examples)
-* [2025-04-18 【入社エントリ】13年目のベテランエンジニアから見たHRBrainは、開発体験がとても良い👍️会社だった件](https://note.com/t_s587/n/nb1aadf62b494)
 * [2025-03-29 「ソフトウェアアーキテクチャの基礎」で学んだことは「アーキテクト的なモノの考え方」](https://blog.tach.dev/articles/7bdf683b-0656-463f-8bfa-0cb5b10c66cd)
 * [2025-02-22 読書感想 - 2024年末からこれまでに読んだ本](https://blog.tach.dev/articles/c2cbcb15-bdfc-4473-b502-bd077f8ed2bb)
 * [2024-12-20 ISUCON14に参加しました](https://qiita.com/szit/items/3540527453fbed9319a3)
